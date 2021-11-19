@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bryan</h1>
 <h3 align="center">Student At HU, network engineer, aspiring security engineer</h3>
 
-- 📫 How to reach me **bryan@nexezo.com**
+- 📫 How to reach me **"bryan" at "nexezo" dot "com"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
